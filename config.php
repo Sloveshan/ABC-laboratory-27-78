@@ -1,0 +1,1 @@
+<?php $conn = mysqli_connect('localhost','root','','abc_labs_bscsd_27_78'); ?>
